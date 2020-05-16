@@ -34,4 +34,9 @@ public class Zaehlen
             System.out.println(x--);
         }
     }
+    
+    public void iHaveNoIdeas()
+    {
+        System.out.println ("<|°_°|>");
+    }
 }
